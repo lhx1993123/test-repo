@@ -1,3 +1,3 @@
 # test-repo
 
-Some description.
+Some descriptions.
